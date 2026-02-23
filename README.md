@@ -112,9 +112,11 @@ Requirement from official documentationHow Novic-AI satisfies it≥ 85% conversa
 
 
 📄 License
+
 MIT License
 
 Built by
+
 Murshida T & Muhammed Anshad A
 
 If you find this project useful, please star ⭐ the repository!
