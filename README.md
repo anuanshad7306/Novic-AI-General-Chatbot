@@ -109,8 +109,11 @@ textnovic-ai/
 
 
 Requirement from official documentationHow Novic-AI satisfies it≥ 85% conversational accuracyRAG + grounded answers from real documentsMulti-turn & context retentionFull per-user chat history in SQLiteResponses < 3 seconds (95%)Small fast model + local inferenceSeamless & intuitive UIModern dark-mode Streamlit interfaceKnowledge base & retrainingUpload files → Retrain button
+
+
 📄 License
 MIT License
+
 Built by
 Murshida T & Muhammed Anshad A
 
