@@ -118,17 +118,3 @@ MIT License
 Built by
 
 Murshida T & Muhammed Anshad A
-
-If you find this project useful, please star ⭐ the repository!
-Questions or suggestions? Feel free to open an issue.
-text### How to Add It to GitHub
-
-1. In your project root (`D:\general_chatbot`), create a new file named `README.md`
-2. Paste the entire content above
-3. Save it
-4. Push to GitHub (if repository already exists):
-
-```bash
-git add README.md
-git commit -m "Add clean and professional README"
-git push origin main
